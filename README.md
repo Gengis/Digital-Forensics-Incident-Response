@@ -29,5 +29,5 @@ All evidence was handled according to **RFC 3227** (Order of Volatility):
 4. Archival Media
 
 ## 📸 Investigation Screenshots
-![Forensic Analysis](link_to_screenshot.png)
+![Forensic Analysis](screenshot.png)
 *Figure 1: SQL Analysis of the messaging database.*
